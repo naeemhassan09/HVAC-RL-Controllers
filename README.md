@@ -31,3 +31,7 @@ A Gym-compatible environment simulating a two-zone office building, including:
 - PyTorch 2.x
 - Gymnasium 0.29+
 - Matplotlib, NumPy
+
+
+## Report Link
+https://docs.google.com/document/d/1lQql3LZeFgXPoRK2NUiWfEaE5Ic3kaasKvpsjE-FG1c/edit?usp=sharing
